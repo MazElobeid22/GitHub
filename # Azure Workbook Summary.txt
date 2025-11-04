@@ -1,0 +1,30 @@
+# Azure Workbook Summary
+
+## Day 1: Cloud Services and Concepts
+- Benefits: scalability, cost-efficiency, collaboration, disaster recovery
+- Cloud Models: public, private, hybrid, community (e.g., Netflix, FC Barcelona)
+- Service Models:
+  - IaaS: infrastructure for big data
+  - PaaS: development platforms
+  - SaaS: software delivery (e.g., Google Workspace)
+- Providers: AWS, Azure, GCP
+
+## Day 2: Ethical and Legal Obligations
+- **Computer Misuse Act 1990**: protects against unauthorized access
+- **Police and Justice Act 2006**: criminalizes hacking tools
+- **Data Security**: consent for sensitive data
+- **Copyright & Plagiarism**: legal consequences of violations
+
+## Day 3: Azure Labs
+- Azure Relational Data
+- Azure Non-Relational Data
+- Azure Data Analytics
+
+## Day 4: Proposal & Practice Test
+- **DP-900 Practice Exam**: scored 88%
+- **Paws & Whiskers Proposal**:
+  - GDPR, DPA 2018, PCI DSS
+  - Azure services: Data Lake, Blob, SQL, Databricks, Synapse, ML
+  - Data formats: CSV, JSON, Parquet
+  - Security: encryption, backups
+  - Visualisation: Power BI dashboards

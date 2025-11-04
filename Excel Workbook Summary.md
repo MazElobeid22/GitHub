@@ -1,0 +1,31 @@
+\# Excel Workbook Summary
+
+\## Day 1: Data Legislation - \*\*DPA\*\*: fair, secure data handling -
+\*\*GDPR\*\*: strengthens rights - \*\*FOIA\*\*: public access -
+\*\*Computer Misuse Act\*\*: protects systems
+
+\## Day 2: Excel Analysis
+
+\### Task 1 - Created table (columns A--J) - Sorted Age column - Used
+formulas: \`SUM(M10)\`, \`AVERAGE(M11)\`
+
+\### Task 2 - Found top scores in science, math, English
+
+\### Task 3 - Freestyle dataset manipulation and visualisation
+
+\## Day 3: Pivot Tables & Functions
+
+\### Task 1: Bike Sales Pivot - Identified:  - German customers (35--64)
+ - UK & Australia: all markets  - Top markets: US, females, 35--64
+
+\### Task 2: SWITCH Function - Categorised sales:  - High: \>600  -
+Medium: 300--600  - Low: \<300
+
+\### Task 3: Visualisations - Created pivot-based charts
+
+\## Day 4: Presentation Skills - Analysed customer attrition - Tools:
+Excel, Tableau, Power BI, Slides - Techniques:  - Use graphics  -
+Quantify impact  - Segment audience  - Benchmark comparisons
+
+\### Summary - Balanced technical skills with communication - Applied
+Excel for analysis, visualisation, and storytelling
