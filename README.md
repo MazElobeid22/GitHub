@@ -90,6 +90,10 @@ Key Skills: Cloud fundamentals, security, architecture
 
 -Labs: Relational, non-relational, and analytics services
 
+![Alt text](Azure/azure1.jpg)
+
+![Alt text](Azure/azure2.jpg)
+
 -DP-900 Certification: 88% score; designed solution for Paws & Whiskers using SQL DB, Blob, Data Lake, Synapse, ML, Power BI
 
 **🐍 Python**
