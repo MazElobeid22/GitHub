@@ -4,14 +4,14 @@ This repository contains summaries of key learning modules completed across Exce
 
 📊 Excel Workbook Summary
 
--Day 1: Data Legislation
+**Day 1: Data Legislation**
 
 ---DPA: fair, secure data handling
 ---GDPR: strengthens rights
 ---FOIA: public access
 ---Computer Misuse Act: protects systems
 
--Day 2: Excel Analysis
+**Day 2: Excel Analysis**
 
 --Task 1
 
@@ -27,7 +27,7 @@ This repository contains summaries of key learning modules completed across Exce
 
 ---Freestyle dataset manipulation and visualisation
 
--Day 3: Pivot Tables & Functions
+**Day 3: Pivot Tables & Functions**
 
 --Task 1: Bike Sales Pivot
 
@@ -49,7 +49,7 @@ Categorised sales:
 
 ---Created pivot-based charts
 
--Day 4: Presentation Skills
+**Day 4: Presentation Skills**
 
 --Analysed customer attrition
 --Tools: Excel, Tableau, Power BI, Slides
@@ -66,7 +66,7 @@ Techniques:
 
 📈 Tableau and Power BI Workbook Summary
 
--Day 1: Tableau Development
+**Day 1: Tableau Development**
 
 --Task 1: Tableau Versions
 
@@ -79,7 +79,7 @@ Techniques:
 ---Bar chart: job change %
 ---Map: UK cities affected
 
--Day 2: Data Analysis Projects
+**Day 2: Data Analysis Projects**
 
 --Task 1: Spotify Dataset
 
@@ -93,7 +93,7 @@ Techniques:
 ---Gender differences in health outcomes
 ---NHS applications: planning, resource allocation
 
--Day 3: Power BI Foundations
+**Day 3: Power BI Foundations**
 
 ---Lab 1: Get Data
 ---Lab 2: Transform Data
@@ -109,7 +109,7 @@ Summary
 
 🧮 SQL Workbook Summary
 
--Day 1: Database Foundations
+**Day 1: Database Foundations**
 
 --Task 1: Relationships and Keys
 
@@ -126,11 +126,11 @@ Summary
 ---Relational (SQL): structured, schema-based
 ---Non-Relational (NoSQL): flexible, schema-less (e.g., JSON, XML)
 
--Day 3: SQL Joins
+**Day 3: SQL Joins**
 
 --Self, Inner, Left, Right, Full, Cross joins with examples
 
-Day 4: Database Design Essay
+**Day 4: Database Design Essay**
 
 --Designed schema for a retail business with 4 tables
 --SQL commands for creation and population
@@ -141,24 +141,24 @@ Day 4: Database Design Essay
 
 ☁️ Azure Workbook Summary
 
--Day 1: Cloud Concepts
+**Day 1: Cloud Concepts**
 
 ---Benefits: scalability, cost-efficiency, collaboration
 ---Models: public, private, hybrid, community
 ---Services: IaaS, PaaS, SaaS
 ---Providers: AWS, Azure, GCP
 
--Day 2: Legal & Ethical Responsibilities
+**Day 2: Legal & Ethical Responsibilities**
 
 ---Computer Misuse Act, Police & Justice Act
 ---GDPR, DPA 2018, PCI DSS
 ---Copyright, plagiarism, data consent
 
--Day 3: Azure Labs
+**Day 3: Azure Labs**
 
 ---Explored relational, non-relational, and analytics services
 
--Day 4: DP-900 Exam & Proposal
+**Day 4: DP-900 Exam & Proposal**
 
 ---Scored 88% on DP-900
 ---Proposed Azure solution for "Paws & Whiskers"
@@ -169,17 +169,17 @@ Day 4: Database Design Essay
 
 🐍 Python Workbook Summary
 
--Day 1: Theory
+**Day 1: Theory**
 
 ---Origins of Python: Developed by Guido van Rossum, released in 1991, named after Monty Python
 ---General Uses: Web development, scripting, machine learning, scientific computing
 ---Data Analysis Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
--Day 2: FizzBuzz Programming Task
+**Day 2: FizzBuzz Programming Task**
 
 ---Used control flow to print numbers 1–100 with "fizz", "buzz", or "fizzbuzz" substitutions
 
--Day 3: Pandas Data Analysis (student.csv)
+**Day 3: Pandas Data Analysis (student.csv)**
 
 ---Loading & Exploring: read_csv, .head(), .info(), .describe()
 ---Indexing & Slicing: Select columns, filter rows
@@ -189,7 +189,7 @@ Day 4: Database Design Essay
 ---Exporting: Save DataFrame to CSV
 ---Visualisation: Optional use of Matplotlib/Seaborn
 
--Day 4: GDP Data Exploration
+**Day 4: GDP Data Exploration**
 
 ---Loaded and explored GDP (nominal) per Capita.csv
 ---Group activity using Jupyter notebook for deeper analysis
