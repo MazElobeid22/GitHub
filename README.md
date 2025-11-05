@@ -1,6 +1,6 @@
 📦 Data Technician Workbook Summaries
 
-This repository contains summaries of key learning modules completed across Excel, Tableau and Power BI, SQL, Azure, and Python. Each section outlines the core tasks, tools, and insights gained during the course.
+This repository contains summaries of key learning modules completed across Excel, Tableau and Power BI, SQL, Azure, and Python which have been assigned to their own individual folder. Each section outlines the core tasks, tools, and insights gained during the course.
 
 **🧮 Excel**
 
