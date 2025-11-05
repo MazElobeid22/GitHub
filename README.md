@@ -26,21 +26,21 @@ Techniques: visuals, quantified insights, audience targeting, benchmarking
 
 **📈 Tableau & Power BI**
 
-Key Skills: Dashboard design, data storytelling
+-Key Skills: Dashboard design, data storytelling
 
-Tableau:
+-Tableau:
 
 Compared Public vs. Desktop/Server/Online
 
 Created dashboards (Job Change %, UK city maps)
 
-Projects:
+-Projects:
 
 Spotify: Popularity vs. Energy/Tempo
 
 Health Data: Life expectancy, BMI, NHS planning insights
 
-Power BI:
+-Power BI:
 
 Labs on data import, transformation, report & dashboard design
 
