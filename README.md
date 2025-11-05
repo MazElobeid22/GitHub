@@ -46,6 +46,8 @@ Created dashboards (Job Change %, UK city maps)
 
 Spotify: Popularity vs. Energy/Tempo
 
+![Alt text].(Tableau and Power BI/spotify1.jpg)
+
 Health Data: Life expectancy, BMI, NHS planning insights
 
 -Power BI:
