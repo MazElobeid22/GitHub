@@ -112,6 +112,12 @@ Key Skills: Programming, data analysis, visualization
 
 Load/explore datasets
 
+![Alt text](Python/python3.jpg)
+
+![Alt text](Python/python4.jpg)
+
+![Alt text](Python/python5.jpg)
+
 Manipulate, aggregate, pivot, export
 
 Visualize results
