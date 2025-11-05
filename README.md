@@ -32,6 +32,7 @@ This repository contains summaries of key learning modules completed across Exce
 --Task 1: Bike Sales Pivot
 
 Identified:
+
 ---German customers (35–64)
 ---UK & Australia: all markets
 ---Top markets: US, females, 35–64
@@ -39,6 +40,7 @@ Identified:
 --Task 2: SWITCH Function
 
 Categorised sales:
+
 ---High: >600
 ---Medium: 300–600
 ---Low: <300
@@ -53,6 +55,7 @@ Categorised sales:
 --Tools: Excel, Tableau, Power BI, Slides
 
 Techniques:
+
 --Use graphics
 --Quantify impact
 --Segment audience
