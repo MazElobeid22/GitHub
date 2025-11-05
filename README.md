@@ -46,7 +46,13 @@ Created dashboards (Job Change %, UK city maps)
 
 Spotify: Popularity vs. Energy/Tempo
 
-![Alt text].(Tableau and Power BI/spotify1.jpg)
+![Alt text](Tableau_and_PowerBI/spotify1.jpg)
+
+![Alt text](Tableau_and_PowerBI/spotify2.jpg)
+
+![Alt text](Tableau_and_PowerBI/spotify3.jpg)
+
+![Alt text](Tableau_and_PowerBI/spotify4.jpg)
 
 Health Data: Life expectancy, BMI, NHS planning insights
 
@@ -59,6 +65,10 @@ Labs on data import, transformation, report & dashboard design
 Key Skills: Database design, querying, relationships
 
 -Database Concepts:
+
+![Alt text](SQL/sql1.jpg)
+
+![Alt text](SQL/sql2.jpg)
 
 Keys: Primary, Secondary, Foreign
 
@@ -79,6 +89,10 @@ Key Skills: Cloud fundamentals, security, architecture
 -Compliance: GDPR, DPA 2018, PCI DSS, Copyright
 
 -Labs: Relational, non-relational, and analytics services
+
+![Alt text](Azure/azure1.jpg)
+
+![Alt text](Azure/azure2.jpg)
 
 -DP-900 Certification: 88% score; designed solution for Paws & Whiskers using SQL DB, Blob, Data Lake, Synapse, ML, Power BI
 
