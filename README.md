@@ -66,6 +66,10 @@ Key Skills: Database design, querying, relationships
 
 -Database Concepts:
 
+![Alt text](SQL/sql1.jpg)
+
+![Alt text](SQL/sql2.jpg)
+
 Keys: Primary, Secondary, Foreign
 
 Relationships: 1-1, 1-many, many-many
