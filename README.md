@@ -48,6 +48,12 @@ Spotify: Popularity vs. Energy/Tempo
 
 ![Alt text](Tableau_and_PowerBI/spotify1.jpg)
 
+![Alt text](Tableau_and_PowerBI/spotify2.jpg)
+
+![Alt text](Tableau_and_PowerBI/spotify3.jpg)
+
+![Alt text](Tableau_and_PowerBI/spotify4.jpg)
+
 Health Data: Life expectancy, BMI, NHS planning insights
 
 -Power BI:
