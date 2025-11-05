@@ -6,11 +6,11 @@ This repository contains summaries of key learning modules completed across Exce
 
 Key Skills: Data handling, analysis, visualization, presentation
 
-Data Legislation: DPA, GDPR, FOIA, Computer Misuse Act
+-Data Legislation: DPA, GDPR, FOIA, Computer Misuse Act
 
-Data Analysis: Sorting, SUM/AVERAGE formulas, top-score identification, dataset manipulation
+-Data Analysis: Sorting, SUM/AVERAGE formulas, top-score identification, dataset manipulation
 
-Pivot Tables & Functions:
+-Pivot Tables & Functions:
 
 Customer segmentation via pivots
 
@@ -18,7 +18,7 @@ SWITCH function for sales categories (High/Med/Low)
 
 Pivot-based visualizations
 
-Presentation Skills:
+-Presentation Skills:
 
 Tools: Excel, Tableau, Power BI
 
