@@ -18,6 +18,10 @@ SWITCH function for sales categories (High/Med/Low)
 
 Pivot-based visualizations
 
+![Alt text](Excel/excel.jpeg)
+
+![Alt text](Excel/exce2.jpeg)
+
 -Presentation Skills:
 
 Tools: Excel, Tableau, Power BI
