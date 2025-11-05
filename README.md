@@ -51,18 +51,18 @@ Categorised sales:
 
 **Day 4: Presentation Skills**
 
---Analysed customer attrition
---Tools: Excel, Tableau, Power BI, Slides
+---Analysed customer attrition
+---Tools: Excel, Tableau, Power BI, Slides
 
 Techniques:
 
---Use graphics
---Quantify impact
---Segment audience
---Benchmark comparisons
---Summary
---Balanced technical skills with communication
---Applied Excel for analysis, visualisation, and storytelling
+---Use graphics
+---Quantify impact
+---Segment audience
+---Benchmark comparisons
+---Summary
+---Balanced technical skills with communication
+---Applied Excel for analysis, visualisation, and storytelling
 
 📈 Tableau and Power BI Workbook Summary
 
@@ -128,16 +128,16 @@ Summary
 
 **Day 3: SQL Joins**
 
---Self, Inner, Left, Right, Full, Cross joins with examples
+---Self, Inner, Left, Right, Full, Cross joins with examples
 
 **Day 4: Database Design Essay**
 
---Designed schema for a retail business with 4 tables
---SQL commands for creation and population
---Maintenance strategies: backups, access control
---Practical SQL Exercises
---Aggregation, filtering, pattern matching
---Sorting, joins, GDP and population analysis
+---Designed schema for a retail business with 4 tables
+---SQL commands for creation and population
+---Maintenance strategies: backups, access control
+---Practical SQL Exercises
+---Aggregation, filtering, pattern matching
+---Sorting, joins, GDP and population analysis
 
 ☁️ Azure Workbook Summary
 
