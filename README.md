@@ -2,7 +2,7 @@
 
 This repository contains summaries of key learning modules completed across Excel, Tableau and Power BI, SQL, Azure, and Python. Each section outlines the core tasks, tools, and insights gained during the course.
 
-🧮 Excel
+**🧮 Excel**
 
 Key Skills: Data handling, analysis, visualization, presentation
 
@@ -24,7 +24,7 @@ Tools: Excel, Tableau, Power BI
 
 Techniques: visuals, quantified insights, audience targeting, benchmarking
 
-📈 Tableau & Power BI
+**📈 Tableau & Power BI**
 
 Key Skills: Dashboard design, data storytelling
 
@@ -44,7 +44,7 @@ Power BI:
 
 Labs on data import, transformation, report & dashboard design
 
-🗃️ SQL
+**🗃️ SQL**
 
 Key Skills: Database design, querying, relationships
 
@@ -60,7 +60,7 @@ SQL Operations: Joins (Inner, Left, Right, etc.), filtering, aggregation, sortin
 
 Design Project: Retail schema, SQL creation scripts, maintenance (backups, access control)
 
-☁️ Azure
+**☁️ Azure**
 
 Key Skills: Cloud fundamentals, security, architecture
 
@@ -72,7 +72,7 @@ Labs: Relational, non-relational, and analytics services
 
 DP-900 Certification: 88% score; designed solution for Paws & Whiskers using SQL DB, Blob, Data Lake, Synapse, ML, Power BI
 
-🐍 Python
+**🐍 Python**
 
 Key Skills: Programming, data analysis, visualization
 
