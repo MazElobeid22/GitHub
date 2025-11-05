@@ -123,3 +123,9 @@ Manipulate, aggregate, pivot, export
 Visualize results
 
 -GDP Project: Jupyter-based group analysis on GDP per capita data
+
+![Alt text](Python/python6.jpg)
+
+![Alt text](Python/python7.jpg)
+
+![Alt text](Python/python8.jpg)
