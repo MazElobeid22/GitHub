@@ -18,9 +18,9 @@ SWITCH function for sales categories (High/Med/Low)
 
 Pivot-based visualizations
 
-![Alt text](Excel/excel.jpg)
+![Alt text](Excel/excel1.jpg)
 
-![Alt text](Excel/exce2.jpg)
+![Alt text](Excel/excel2.jpg)
 
 -Presentation Skills:
 
