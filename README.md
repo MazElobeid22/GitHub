@@ -48,39 +48,39 @@ Labs on data import, transformation, report & dashboard design
 
 Key Skills: Database design, querying, relationships
 
-Database Concepts:
+-Database Concepts:
 
 Keys: Primary, Secondary, Foreign
 
 Relationships: 1-1, 1-many, many-many
 
-Relational vs. Non-Relational: SQL vs. NoSQL
+-Relational vs. Non-Relational: SQL vs. NoSQL
 
-SQL Operations: Joins (Inner, Left, Right, etc.), filtering, aggregation, sorting
+-SQL Operations: Joins (Inner, Left, Right, etc.), filtering, aggregation, sorting
 
-Design Project: Retail schema, SQL creation scripts, maintenance (backups, access control)
+-Design Project: Retail schema, SQL creation scripts, maintenance (backups, access control)
 
 **☁️ Azure**
 
 Key Skills: Cloud fundamentals, security, architecture
 
-Concepts: Cloud benefits, models (Public/Private/Hybrid), service types (IaaS/PaaS/SaaS)
+-Concepts: Cloud benefits, models (Public/Private/Hybrid), service types (IaaS/PaaS/SaaS)
 
-Compliance: GDPR, DPA 2018, PCI DSS, Copyright
+-Compliance: GDPR, DPA 2018, PCI DSS, Copyright
 
-Labs: Relational, non-relational, and analytics services
+-Labs: Relational, non-relational, and analytics services
 
-DP-900 Certification: 88% score; designed solution for Paws & Whiskers using SQL DB, Blob, Data Lake, Synapse, ML, Power BI
+-DP-900 Certification: 88% score; designed solution for Paws & Whiskers using SQL DB, Blob, Data Lake, Synapse, ML, Power BI
 
 **🐍 Python**
 
 Key Skills: Programming, data analysis, visualization
 
-Foundations: History, applications, core libraries (Pandas, NumPy, Matplotlib, Seaborn)
+-Foundations: History, applications, core libraries (Pandas, NumPy, Matplotlib, Seaborn)
 
-FizzBuzz: Control flow exercise
+-FizzBuzz: Control flow exercise
 
-Pandas Analysis:
+-Pandas Analysis:
 
 Load/explore datasets
 
@@ -88,4 +88,4 @@ Manipulate, aggregate, pivot, export
 
 Visualize results
 
-GDP Project: Jupyter-based group analysis on GDP per capita data
+-GDP Project: Jupyter-based group analysis on GDP per capita data
