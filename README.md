@@ -189,7 +189,7 @@ Day 4: Database Design Essay
 --Exporting: Save DataFrame to CSV
 --Visualisation: Optional use of Matplotlib/Seaborn
 
-Day 4: GDP Data Exploration
+-Day 4: GDP Data Exploration
 
 --Loaded and explored GDP (nominal) per Capita.csv
 --Group activity using Jupyter notebook for deeper analysis
