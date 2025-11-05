@@ -22,6 +22,10 @@ Pivot-based visualizations
 
 ![Alt text](Excel/excel2.jpg)
 
+![Alt text](Excel/excel3.jpg)
+
+![Alt text](Excel/excel4.jpg)
+
 -Presentation Skills:
 
 Tools: Excel, Tableau, Power BI
