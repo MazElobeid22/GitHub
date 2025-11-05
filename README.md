@@ -104,9 +104,19 @@ Key Skills: Programming, data analysis, visualization
 
 -FizzBuzz: Control flow exercise
 
+![Alt text](Python/python1.jpg)
+
+![Alt text](Python/python2.jpg)
+
 -Pandas Analysis:
 
 Load/explore datasets
+
+![Alt text](Python/python3.jpg)
+
+![Alt text](Python/python4.jpg)
+
+![Alt text](Python/python5.jpg)
 
 Manipulate, aggregate, pivot, export
 
