@@ -2,196 +2,90 @@
 
 This repository contains summaries of key learning modules completed across Excel, Tableau and Power BI, SQL, Azure, and Python. Each section outlines the core tasks, tools, and insights gained during the course.
 
-📊 Excel Workbook Summary
+**🧮 Excel**
 
-**Day 1: Data Legislation**
+Key Skills: Data handling, analysis, visualization, presentation
 
----DPA: fair, secure data handling
----GDPR: strengthens rights
----FOIA: public access
----Computer Misuse Act: protects systems
+-Data Legislation: DPA, GDPR, FOIA, Computer Misuse Act
 
-**Day 2: Excel Analysis**
+-Data Analysis: Sorting, SUM/AVERAGE formulas, top-score identification, dataset manipulation
 
---Task 1
+-Pivot Tables & Functions:
 
----Created table (columns A–J)
----Sorted Age column
----Used formulas: SUM(M10), AVERAGE(M11)
+Customer segmentation via pivots
 
---Task 2
+SWITCH function for sales categories (High/Med/Low)
 
----Found top scores in science, math, English
+Pivot-based visualizations
 
---Task 3
+-Presentation Skills:
 
----Freestyle dataset manipulation and visualisation
+Tools: Excel, Tableau, Power BI
 
-**Day 3: Pivot Tables & Functions**
+Techniques: visuals, quantified insights, audience targeting, benchmarking
 
---Task 1: Bike Sales Pivot
+**📈 Tableau & Power BI**
 
-Identified:
+-Key Skills: Dashboard design, data storytelling
 
----German customers (35–64)
----UK & Australia: all markets
----Top markets: US, females, 35–64
+-Tableau:
 
---Task 2: SWITCH Function
+Compared Public vs. Desktop/Server/Online
 
-Categorised sales:
+Created dashboards (Job Change %, UK city maps)
 
----High: >600
----Medium: 300–600
----Low: <300
+-Projects:
 
---Task 3: Visualisations
+Spotify: Popularity vs. Energy/Tempo
 
----Created pivot-based charts
+Health Data: Life expectancy, BMI, NHS planning insights
 
-**Day 4: Presentation Skills**
+-Power BI:
 
---Analysed customer attrition
---Tools: Excel, Tableau, Power BI, Slides
+Labs on data import, transformation, report & dashboard design
 
-Techniques:
+**🗃️ SQL**
 
---Use graphics
---Quantify impact
---Segment audience
---Benchmark comparisons
---Summary
---Balanced technical skills with communication
---Applied Excel for analysis, visualisation, and storytelling
+Key Skills: Database design, querying, relationships
 
-📈 Tableau and Power BI Workbook Summary
+-Database Concepts:
 
-**Day 1: Tableau Development**
+Keys: Primary, Secondary, Foreign
 
---Task 1: Tableau Versions
+Relationships: 1-1, 1-many, many-many
 
----Public: free, limited
----Desktop/Server/Online: paid, secure, integrated
+-Relational vs. Non-Relational: SQL vs. NoSQL
 
---Task 2: Dashboard Creation
+-SQL Operations: Joins (Inner, Left, Right, etc.), filtering, aggregation, sorting
 
----EMSI_JobChange_UK dataset
----Bar chart: job change %
----Map: UK cities affected
+-Design Project: Retail schema, SQL creation scripts, maintenance (backups, access control)
 
-**Day 2: Data Analysis Projects**
+**☁️ Azure**
 
---Task 1: Spotify Dataset
+Key Skills: Cloud fundamentals, security, architecture
 
----Popularity not directly tied to energy/tempo
----Preferred ranges: energy 0.6–0.81, tempo 90–130 BPM
+-Concepts: Cloud benefits, models (Public/Private/Hybrid), service types (IaaS/PaaS/SaaS)
 
---Task 2: Health Dataset
+-Compliance: GDPR, DPA 2018, PCI DSS, Copyright
 
----Life expectancy stagnation due to BMI, cholesterol
----Chronic disease risks strain NHS
----Gender differences in health outcomes
----NHS applications: planning, resource allocation
+-Labs: Relational, non-relational, and analytics services
 
-**Day 3: Power BI Foundations**
+-DP-900 Certification: 88% score; designed solution for Paws & Whiskers using SQL DB, Blob, Data Lake, Synapse, ML, Power BI
 
----Lab 1: Get Data
----Lab 2: Transform Data
----Day 4: Dashboarding
----Lab 6: Design Report
----Lab 9: Create Dashboard
+**🐍 Python**
 
-Summary
+Key Skills: Programming, data analysis, visualization
 
----Explored Tableau and Power BI
----Analysed real-world datasets
----Developed dashboards and reports
+-Foundations: History, applications, core libraries (Pandas, NumPy, Matplotlib, Seaborn)
 
-🧮 SQL Workbook Summary
+-FizzBuzz: Control flow exercise
 
-**Day 1: Database Foundations**
+-Pandas Analysis:
 
---Task 1: Relationships and Keys
+Load/explore datasets
 
----Primary Key: unique, non-null
----Secondary Key: alternate unique ID
----Foreign Key: links tables, ensures integrity
----Connections
----One-to-One: student ↔ student ID
----One-to-Many: blog ↔ posts
----Many-to-Many: students ↔ classes
+Manipulate, aggregate, pivot, export
 
---Task 2: Relational vs Non-Relational
+Visualize results
 
----Relational (SQL): structured, schema-based
----Non-Relational (NoSQL): flexible, schema-less (e.g., JSON, XML)
-
-**Day 3: SQL Joins**
-
---Self, Inner, Left, Right, Full, Cross joins with examples
-
-**Day 4: Database Design Essay**
-
---Designed schema for a retail business with 4 tables
---SQL commands for creation and population
---Maintenance strategies: backups, access control
---Practical SQL Exercises
---Aggregation, filtering, pattern matching
---Sorting, joins, GDP and population analysis
-
-☁️ Azure Workbook Summary
-
-**Day 1: Cloud Concepts**
-
----Benefits: scalability, cost-efficiency, collaboration
----Models: public, private, hybrid, community
----Services: IaaS, PaaS, SaaS
----Providers: AWS, Azure, GCP
-
-**Day 2: Legal & Ethical Responsibilities**
-
----Computer Misuse Act, Police & Justice Act
----GDPR, DPA 2018, PCI DSS
----Copyright, plagiarism, data consent
-
-**Day 3: Azure Labs**
-
----Explored relational, non-relational, and analytics services
-
-**Day 4: DP-900 Exam & Proposal**
-
----Scored 88% on DP-900
----Proposed Azure solution for "Paws & Whiskers"
----Services: SQL DB, Blob, Data Lake, Synapse, ML
----Formats: CSV, JSON, Parquet
----Security: encryption, backups
----Visualisation: Power BI dashboards
-
-🐍 Python Workbook Summary
-
-**Day 1: Theory**
-
----Origins of Python: Developed by Guido van Rossum, released in 1991, named after Monty Python
----General Uses: Web development, scripting, machine learning, scientific computing
----Data Analysis Libraries: Pandas, NumPy, Matplotlib, Seaborn
-
-**Day 2: FizzBuzz Programming Task**
-
----Used control flow to print numbers 1–100 with "fizz", "buzz", or "fizzbuzz" substitutions
-
-**Day 3: Pandas Data Analysis (student.csv)**
-
----Loading & Exploring: read_csv, .head(), .info(), .describe()
----Indexing & Slicing: Select columns, filter rows
----Manipulation: Add/drop/rename columns
----Aggregation: Group by class/gender, compute means
----Advanced Ops: Pivot tables, grading logic, sorting
----Exporting: Save DataFrame to CSV
----Visualisation: Optional use of Matplotlib/Seaborn
-
-**Day 4: GDP Data Exploration**
-
----Loaded and explored GDP (nominal) per Capita.csv
----Group activity using Jupyter notebook for deeper analysis
-
-
+-GDP Project: Jupyter-based group analysis on GDP per capita data
