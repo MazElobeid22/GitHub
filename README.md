@@ -18,6 +18,14 @@ SWITCH function for sales categories (High/Med/Low)
 
 Pivot-based visualizations
 
+![Alt text](Excel/excel1.jpg)
+
+![Alt text](Excel/excel2.jpg)
+
+![Alt text](Excel/excel3.jpg)
+
+![Alt text](Excel/excel4.jpg)
+
 -Presentation Skills:
 
 Tools: Excel, Tableau, Power BI
@@ -37,6 +45,8 @@ Created dashboards (Job Change %, UK city maps)
 -Projects:
 
 Spotify: Popularity vs. Energy/Tempo
+
+![Alt text].(Tableau and Power BI/spotify1.jpg)
 
 Health Data: Life expectancy, BMI, NHS planning insights
 
